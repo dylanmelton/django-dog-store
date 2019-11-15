@@ -26,7 +26,7 @@ to help you check your work.
 The front end for this application has been provided for you, and you are responsible
 for building the URLs, views, models, and forms required to complete the features.
 
-## Models
+## Models - DONE
 
 This application has three models: `DogProduct`, `Purchase`, `DogTag`.
 
@@ -61,7 +61,7 @@ It has the following fields:
 - `dog_name` - The name of the dog (e.g. `"Amos"`)
 - `dog_birthday` - The date when the dog was born
 
-## URLs
+## URLs - DONE
 
 The application has 6 paths:
 
